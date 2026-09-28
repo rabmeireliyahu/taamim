@@ -10,5 +10,133 @@
     <itunes:image href="https://rabmeireliyahu.github.io/taamim/portada.jpg"/>
     <itunes:category text="Religion &amp; Spirituality"/>
     <itunes:explicit>false</itunes:explicit>
-  </channel>
+      <item>
+      <title>פרשת בראשית</title>
+      <description>פרשת בראשית</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-taamim/%D7%A4%D7%A8%D7%A9%D7%AA_%D7%91%D7%A8%D7%90%D7%A9%D7%99%D7%AA.mp3" length="32474118" type="audio/mpeg"/>
+      <guid isPermaLink="false">פרשת_בראשית.mp3</guid>
+      <pubDate>Fri, 17 Oct 2025 10:54:27 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>פרשת נח</title>
+      <description>פרשת נח</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-taamim/%D7%A4%D7%A8%D7%A9%D7%AA_%D7%A0%D7%97.mp3" length="32621031" type="audio/mpeg"/>
+      <guid isPermaLink="false">פרשת_נח.mp3</guid>
+      <pubDate>Wed, 22 Oct 2025 10:13:59 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>פרשת לך לך</title>
+      <description>פרשת לך לך</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-taamim/%D7%A4%D7%A8%D7%A9%D7%AA_%D7%9C%D7%9A_%D7%9C%D7%9A.mp3" length="30730222" type="audio/mpeg"/>
+      <guid isPermaLink="false">פרשת_לך_לך.mp3</guid>
+      <pubDate>Sun, 26 Oct 2025 10:06:04 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>וירא</title>
+      <description>וירא</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-taamim/%D7%95%D7%99%D7%A8%D7%90.mp3" length="39570047" type="audio/mpeg"/>
+      <guid isPermaLink="false">וירא.mp3</guid>
+      <pubDate>Mon, 03 Nov 2025 17:58:34 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>חיי שרה</title>
+      <description>חיי שרה</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-taamim/%D7%97%D7%99%D7%99_%D7%A9%D7%A8%D7%94.mp3" length="25535309" type="audio/mpeg"/>
+      <guid isPermaLink="false">חיי_שרה.mp3</guid>
+      <pubDate>Tue, 11 Nov 2025 14:16:40 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>תולדות</title>
+      <description>תולדות</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-taamim/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA.mp3" length="26104864" type="audio/mpeg"/>
+      <guid isPermaLink="false">תולדות.mp3</guid>
+      <pubDate>Sun, 16 Nov 2025 15:29:41 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>ויצא</title>
+      <description>ויצא</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-taamim/%D7%95%D7%99%D7%A6%D7%90.mp3" length="36537832" type="audio/mpeg"/>
+      <guid isPermaLink="false">ויצא.mp3</guid>
+      <pubDate>Tue, 25 Nov 2025 21:07:42 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>וישלח</title>
+      <description>וישלח</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-taamim/%D7%95%D7%99%D7%A9%D7%9C%D7%97.mp3" length="32594366" type="audio/mpeg"/>
+      <guid isPermaLink="false">וישלח.mp3</guid>
+      <pubDate>Thu, 04 Dec 2025 14:20:52 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>פרשת וישב</title>
+      <description>פרשת וישב</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-taamim/%D7%A4%D7%A8%D7%A9%D7%AA_%D7%95%D7%99%D7%A9%D7%91.mp3" length="27406888" type="audio/mpeg"/>
+      <guid isPermaLink="false">פרשת_וישב.mp3</guid>
+      <pubDate>Thu, 11 Dec 2025 07:36:48 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>מקץ</title>
+      <description>מקץ</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-taamim/%D7%9E%D7%A7%D7%A5.mp3" length="38710751" type="audio/mpeg"/>
+      <guid isPermaLink="false">מקץ.mp3</guid>
+      <pubDate>Sun, 14 Dec 2025 10:47:00 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>ויגש</title>
+      <description>ויגש</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-taamim/%D7%95%D7%99%D7%92%D7%A9.mp3" length="26625867" type="audio/mpeg"/>
+      <guid isPermaLink="false">ויגש.mp3</guid>
+      <pubDate>Fri, 26 Dec 2025 11:54:04 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>ויחי</title>
+      <description>ויחי</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-taamim/%D7%95%D7%99%D7%97%D7%99.mp3" length="22613248" type="audio/mpeg"/>
+      <guid isPermaLink="false">ויחי.mp3</guid>
+      <pubDate>Thu, 01 Jan 2026 13:31:40 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>שמות</title>
+      <description>שמות</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-taamim/%D7%A9%D7%9E%D7%95%D7%AA.mp3" length="33562754" type="audio/mpeg"/>
+      <guid isPermaLink="false">שמות.mp3</guid>
+      <pubDate>Sun, 04 Jan 2026 10:00:40 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>וארא</title>
+      <description>וארא</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-taamim/%D7%95%D7%90%D7%A8%D7%90.mp3" length="31312339" type="audio/mpeg"/>
+      <guid isPermaLink="false">וארא.mp3</guid>
+      <pubDate>Sun, 18 Jan 2026 22:19:23 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>בא</title>
+      <description>בא</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-taamim/%D7%91%D7%90.mp3" length="27501540" type="audio/mpeg"/>
+      <guid isPermaLink="false">בא.mp3</guid>
+      <pubDate>Sun, 18 Jan 2026 22:50:45 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>בשלח</title>
+      <description>בשלח</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-taamim/%D7%91%D7%A9%D7%9C%D7%97.mp3" length="31653974" type="audio/mpeg"/>
+      <guid isPermaLink="false">בשלח.mp3</guid>
+      <pubDate>Mon, 26 Jan 2026 12:38:16 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+</channel>
 </rss>
